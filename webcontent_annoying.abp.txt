@@ -1,0 +1,33 @@
+[Adblock Plus 2.0]
+! Version: 201611101453
+! Title: Annoying WebContent
+! Last modified: 10 Nov 2016 14:53 CET
+! Expires: 7 days (update frequency)
+! Homepage: 
+! Licence: 
+! 
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker.
+! 
+
+
+! ==================== Coockie notification filters ========================== !
+
+/cookieconsent.min.js$script
+! /cookieconsent.min.js: pcwelt.de
+
+###CookieNotification
+###privacypolicy
+! ###privacypolicy: derstandard.at
+
+wetteronline.de##.cc_banner-wrapper
+denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
+curius.de##div.cookie
+
+
+! ==================== Site specific filters ================================= !
+
+winfuture.de##div.OUTBRAIN.ob-shrink
+de.wikipedia.org##div#WMDE_Banner
+de.wikipedia.org##div#wam-banner
+de.wikipedia.org##div#siteNotice > div#centralNotice
