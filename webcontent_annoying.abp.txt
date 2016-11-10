@@ -27,8 +27,9 @@ curius.de##div.cookie
 
 ! ==================== Site specific filters ================================= !
 
-winfuture.de##div.OUTBRAIN.ob-shrink
-winfuture.de##div#om-h5imbmbnxowdl2ko
-de.wikipedia.org##div#WMDE_Banner
-de.wikipedia.org##div#wam-banner
 de.wikipedia.org##div#siteNotice > div#centralNotice
+de.wikipedia.org##div#wam-banner
+de.wikipedia.org##div#WMDE_Banner
+winfuture.de##div#om-h5imbmbnxowdl2ko
+winfuture.de##div.OUTBRAIN.ob-shrink
+youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
