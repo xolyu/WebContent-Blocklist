@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201611101518
+! Version: 201611162140
 ! Title: Annoying WebContent
-! Last modified: 10 Nov 2016 15:18 CET
+! Last modified: 16 Nov 2016 21:40 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -30,6 +30,7 @@ curius.de##div.cookie
 de.wikipedia.org##div#siteNotice > div#centralNotice
 de.wikipedia.org##div#wam-banner
 de.wikipedia.org##div#WMDE_Banner
+stechguide.com##iframe.HB-Slider
 winfuture.de##div#om-h5imbmbnxowdl2ko
 winfuture.de##div.OUTBRAIN.ob-shrink
 youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
