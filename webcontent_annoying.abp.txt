@@ -23,6 +23,7 @@
 wetteronline.de##.cc_banner-wrapper
 denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
 curius.de##div.cookie
+doodle.com##div#d-cookiesWarning
 
 
 ! ==================== Site specific filters ================================= !
