@@ -16,6 +16,7 @@
 /cookieconsent.min.js$script
 ! /cookieconsent.min.js: pcwelt.de
 
+###cookiebanner
 ###CookieNotification
 ###privacypolicy
 ! ###privacypolicy: derstandard.at
