@@ -28,8 +28,7 @@ doodle.com##div#d-cookiesWarning
 
 ! ==================== Site specific filters ================================= !
 
-de.wikipedia.org##div#siteNotice > div#centralNotice
-de.wikipedia.org##div#wam-banner
+de.wikipedia.org##div#centralNotice > div#WMDE_Banner
 de.wikipedia.org##div#WMDE_Banner
 stechguide.com##iframe.HB-Slider
 winfuture.de##div#om-h5imbmbnxowdl2ko
