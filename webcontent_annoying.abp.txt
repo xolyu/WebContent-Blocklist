@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201701171704
+! Version: 201701171707
 ! Title: Annoying WebContent
-! Last modified: 17 Jan 2017 17:04 CET
+! Last modified: 17 Jan 2017 17:07 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -16,6 +16,7 @@
 /cookieconsent.min.js$script
 ! /cookieconsent.min.js: pcwelt.de
 
+##div.cookies-note
 ###CookieNotification
 ###privacypolicy
 ! ###privacypolicy: derstandard.at
