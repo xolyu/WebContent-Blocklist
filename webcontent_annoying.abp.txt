@@ -20,10 +20,11 @@
 ###privacypolicy
 ! ###privacypolicy: derstandard.at
 
-wetteronline.de##.cc_banner-wrapper
-denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
+aliexpress.com##div#j-site-notice-header
 curius.de##div.cookie
+denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
 doodle.com##div#d-cookiesWarning
+wetteronline.de##.cc_banner-wrapper
 
 
 ! ==================== Site specific filters ================================= !
