@@ -34,4 +34,5 @@ wetteronline.de##.cc_banner-wrapper
 stechguide.com##iframe.HB-Slider
 winfuture.de##div#om-h5imbmbnxowdl2ko
 winfuture.de##div.OUTBRAIN.ob-shrink
+youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
 youtube.com##ytd-consent-bump-renderer
