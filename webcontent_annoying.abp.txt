@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201701171707
+! Version: 201701171711
 ! Title: Annoying WebContent
-! Last modified: 17 Jan 2017 17:07 CET
+! Last modified: 17 Jan 2017 17:11 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -19,7 +19,6 @@
 ##div.cookies-note
 ###CookieNotification
 ###privacypolicy
-! ###privacypolicy: derstandard.at
 
 aliexpress.com##div#j-site-notice-header
 curius.de##div.cookie
@@ -30,9 +29,9 @@ wetteronline.de##.cc_banner-wrapper
 
 ! ==================== Site specific filters ================================= !
 
-.wikipedia.org##div#centralNotice > div#WMDE_Banner
-.wikipedia.org##div#WMDE_Banner
 stechguide.com##iframe.HB-Slider
+wikipedia.org##div#centralNotice > div#WMDE_Banner
+wikipedia.org##div#WMDE_Banner
 winfuture.de##div#om-h5imbmbnxowdl2ko
 winfuture.de##div.OUTBRAIN.ob-shrink
 youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
