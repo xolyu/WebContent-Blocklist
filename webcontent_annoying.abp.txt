@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201701171711
+! Version: 201702131742
 ! Title: Annoying WebContent
-! Last modified: 17 Jan 2017 17:11 CET
+! Last modified: 13 Feb 2017 17:42 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -23,6 +23,7 @@ aliexpress.com##div#j-site-notice-header
 curius.de##div.cookie
 denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
 doodle.com##div#d-cookiesWarning
+eislingen.de##div#cCore_cookieNotice
 wetteronline.de##.cc_banner-wrapper
 
 
