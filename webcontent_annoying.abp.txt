@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201703030042
+! Version: 201703030242
 ! Title: Annoying WebContent
-! Last modified: 03 Mrz 2017 00:42 CET
+! Last modified: 03 Mrz 2017 02:42 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -16,6 +16,7 @@
 /cookieconsent.min.js$script
 
 ##div.cookies-note
+##div#cookie-hint
 ###CookieNotification
 ###privacypolicy
 
