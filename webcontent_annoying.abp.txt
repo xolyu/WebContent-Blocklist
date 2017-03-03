@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201703030036
+! Version: 201703030042
 ! Title: Annoying WebContent
-! Last modified: 03 Mrz 2017 00:36 CET
+! Last modified: 03 Mrz 2017 00:42 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -29,6 +29,7 @@ wetteronline.de##.cc_banner-wrapper
 
 ! ==================== Site specific filters ================================= !
 
+aliexpress.com##div.ui-newuser-layer-dialog
 stechguide.com##iframe.HB-Slider
 wikipedia.org##div#centralNotice > div#WMDE_Banner
 wikipedia.org##div#WMDE_Banner
