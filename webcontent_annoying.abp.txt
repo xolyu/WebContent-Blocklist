@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201702131742
+! Version: 201703030036
 ! Title: Annoying WebContent
-! Last modified: 13 Feb 2017 17:42 CET
+! Last modified: 03 Mrz 2017 00:36 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -34,6 +34,7 @@ wikipedia.org##div#centralNotice > div#WMDE_Banner
 wikipedia.org##div#WMDE_Banner
 winfuture.de##div#om-h5imbmbnxowdl2ko
 winfuture.de##div.OUTBRAIN.ob-shrink
+winfuture.de##w-div
 youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
 youtube.com##ytd-consent-bump-renderer
 youtube.com##div#alerts
