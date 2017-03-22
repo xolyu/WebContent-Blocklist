@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201703220130
+! Version: 201703220520
 ! Title: Annoying WebContent
-! Last modified: 22 Mrz 2017 01:30 CET
+! Last modified: 22 Mrz 2017 05:20 CET
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 ! Licence: 
@@ -28,6 +28,7 @@ denic.de##div.teaser.notification.notification--notice.notification--acknowledge
 doodle.com##div#d-cookiesWarning
 eislingen.de##div#cCore_cookieNotice
 leitz.com##section#cookiePrefIntro
+uservoice.com##div#hs-eu-cookie-confirmation
 wetteronline.de##.cc_banner-wrapper
 
 
