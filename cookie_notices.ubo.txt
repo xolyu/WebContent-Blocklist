@@ -1,0 +1,17 @@
+! Title: Cookie Notices for uBlock Origin
+! Version: 201707270132
+! Last modified: 27 Jul 2017 01:32 CEST
+! Expires: 7 days (update frequency)
+! 
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker.
+! 
+
+
+! ==================== Global filters ======================================== !
+
+
+
+! ==================== Site specific filters ================================= !
+
+winfuture.de##div:has-text(/Webseite nutzt Cookies/)
