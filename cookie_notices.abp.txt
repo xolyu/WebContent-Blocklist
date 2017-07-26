@@ -1,0 +1,35 @@
+[Adblock Plus 2.0]
+! Title: Coockie Notices for Adblock Plus
+! Version: 20170727-0135
+! Last modified: 27 Jul 2017 01:35 CEST
+! Expires: 7 days (update frequency)
+! 
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker.
+! 
+
+
+! ==================== Global filters ======================================== !
+
+/cookieconsent.min.js$script
+
+##cookies-hint
+##div.cookie-layer
+##div.cookieinfo
+##div.cookies-note
+##div#cookie-hint
+##div#hs-eu-cookie-confirmation
+###CookieNotification
+###privacypolicy
+
+
+! ==================== Site specific filters ================================= !
+
+aliexpress.com##div#j-site-notice-header
+curius.de##div.cookie
+denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
+doodle.com##div#d-cookiesWarning
+eislingen.de##div#cCore_cookieNotice
+leitz.com##section#cookiePrefIntro
+uservoice.com##div#hs-eu-cookie-confirmation
+wetteronline.de##.cc_banner-wrapper

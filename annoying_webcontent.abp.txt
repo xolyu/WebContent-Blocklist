@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! Title: Annoying WebContent for Adblock Plus
+! Version: 20170727-0135
+! Last modified: 27 Jul 2017 01:35 CEST
+! Expires: 7 days (update frequency)
+! 
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker.
+! 
+
+
+! ==================== Global filters ======================================== !
+
+
+
+! ==================== Site specific filters ================================= !
+
+aliexpress.com##div.ui-newuser-layer-dialog
+google.*##div#taw
+sourceforge.net##div#newsletter-floating
+stechguide.com##iframe.HB-Slider
+wikipedia.org##div#centralNotice > div#WMDE_Banner
+wikipedia.org##div#WMDE_Banner
+winfuture.de##div#om-h5imbmbnxowdl2ko
+winfuture.de##div.OUTBRAIN.ob-shrink
+winfuture.de##w-div
+youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
+youtube.com##ytd-consent-bump-renderer
+youtube.com##div#alerts
