@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Coockie Notices for Adblock Plus
+! Title: Cookie Notices for Adblock Plus
 ! Version: 20170727-0135
 ! Last modified: 27 Jul 2017 01:35 CEST
 ! Expires: 7 days (update frequency)
