@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20180527-224500
-! Last modified: 27 May 2018 22:45 CEST
+! Version: 20180724-183700
+! Last modified: 24 Jul 2018 18:37 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -12,6 +12,7 @@
 ! ==================== Global filters ======================================== !
 
 /cookieconsent.min.js$script
+eurocookie.galilcloud.wixapps.net/popup*$subdocument
 
 ##cloudflare-app[app*="cookiless"]
 ##cookies-hint
@@ -27,6 +28,7 @@
 ##div#cookie_permission_banner
 ##div#hs-eu-cookie-confirmation
 ##div#js-gdpr-consent-banner
+##div#privacy-consent
 ###CookieNotification
 ###privacypolicy
 
