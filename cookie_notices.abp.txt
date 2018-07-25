@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20180725-093300
-! Last modified: 25 Jul 2018 09:33 CEST
+! Version: 20180725-173700
+! Last modified: 25 Jul 2018 17:37 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -43,6 +43,7 @@ doodle.com##aside:has(> section[id*='cookiesWarning'])
 dropbox.com##div#top-notification-bar-container > div#eu-cookie-bar
 eislingen.de##div#cCore_cookieNotice
 leitz.com##section#cookiePrefIntro
+leo.org##div[class*='app_gdpr']
 linkedin.com##div:has(> div.alert > a[href*="legal/cookie-policy"])
 wetteronline.de##.cc_banner-wrapper
 ||consent*.trustarc.com
