@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20180807-205000
-! Last modified: 7 Aug 2018 20:50 CEST
+! Version: 20180807-211000
+! Last modified: 7 Aug 2018 21:10 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -11,8 +11,9 @@
 
 ! ==================== Global filters ======================================== !
 
-||cdn.cookielaw.org/consent/*$script
 ||cdm.cursecdn.com/js/cmp/*$script
+||cdn.cookielaw.org/consent/*$script
+||consent*.trustarc.com
 /cookieconsent.min.js$script
 eurocookie.galilcloud.wixapps.net/popup*$subdocument
 
@@ -34,6 +35,7 @@ eurocookie.galilcloud.wixapps.net/popup*$subdocument
 ##div#hs-eu-cookie-confirmation
 ##div#js-gdpr-consent-banner
 ##div#privacy-consent
+##div[class*='app_gdpr']
 ###CookieNotification
 ###privacypolicy
 
@@ -46,8 +48,7 @@ denic.de##div.teaser.notification.notification--notice.notification--acknowledge
 doodle.com##aside:has(> section[id*='cookiesWarning'])
 dropbox.com##div#top-notification-bar-container > div#eu-cookie-bar
 eislingen.de##div#cCore_cookieNotice
+forum.proxmox.com##div.bottomFixer:has(div.noticeCookiesContent)
 leitz.com##section#cookiePrefIntro
-leo.org##div[class*='app_gdpr']
 linkedin.com##div:has(> div.alert > a[href*="legal/cookie-policy"])
 wetteronline.de##.cc_banner-wrapper
-||consent*.trustarc.com
