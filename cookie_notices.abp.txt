@@ -37,6 +37,7 @@ eurocookie.galilcloud.wixapps.net/popup*$subdocument
 ##div#js-gdpr-consent-banner
 ##div#privacy-consent
 ##div[class*='app_gdpr']
+##div[id*='cookiehint']
 ###CookieNotification
 ###privacypolicy
 
