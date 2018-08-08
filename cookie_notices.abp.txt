@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20180808-082800
-! Last modified: 8 Aug 2018 08:28 CEST
+! Version: 20180808-084000
+! Last modified: 8 Aug 2018 08:40 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -53,4 +53,5 @@ eislingen.de##div#cCore_cookieNotice
 forum.proxmox.com##div.bottomFixer:has(div.noticeCookiesContent)
 leitz.com##section#cookiePrefIntro
 linkedin.com##div:has(> div.alert > a[href*="legal/cookie-policy"])
+reddit.com##div:has(> form:has(a[href*='reddit.com/help/privacypolicy']))
 wetteronline.de##.cc_banner-wrapper
