@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Annoying WebContent for Adblock Plus
-! Version: 20180725-1717
-! Last modified: 25 Jul 2018 17:17 CEST
+! Version: 20180831-1250
+! Last modified: 31 Aug 2018 12:50 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -20,6 +20,7 @@ aliexpress.com##div.ui-newuser-layer-dialog
 facebook.com##div#pagelet_growth_expanding_cta
 facebook.com##div#u_0_c
 google.*##div#taw
+howtogeek.com##div.email-overlay
 sourceforge.net##div#newsletter-floating
 stackoverflow.com##div.old-hero.hero-container.js-dismissable-hero
 stechguide.com##iframe.HB-Slider
