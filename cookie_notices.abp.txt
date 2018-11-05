@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20180903-1921
-! Last modified: 3 Sep 2018 19:21 CEST
+! Version: 20181105-1106
+! Last modified: 5 Nov 2018 11:06 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -59,6 +59,7 @@ eurocookie.galilcloud.wixapps.net/popup*$subdocument
 
 aliexpress.com##div#j-aliexpress-notice
 curius.de##div.cookie
+dell.com##div.evidon-banner
 denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
 doodle.com##aside:has(> section[id*='cookiesWarning'])
 doodle.com##div#d-cookiesWarning
