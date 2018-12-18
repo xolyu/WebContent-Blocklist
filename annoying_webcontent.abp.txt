@@ -33,3 +33,10 @@ winfuture.de##w-div
 youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
 youtube.com##ytd-consent-bump-renderer
 youtube.com##div#alerts
+
+! GMaps: Meldung rechts oben
+google.com,google.de##div[role='dialog'][aria-label*='Wähle die Privatsphäreeinstellungen']
+! GMaps: Meldung links unten, überlagert Satellit-Button
+google.com,google.de##div.widget-consent
+! GMaps: Meldung bei Suchanfrage - Benachrichtigung für pünktlich ankommen aktivieren
+google.com,google.de##div.widget-homescreen-card
