@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cookie Notices for Adblock Plus
-! Version: 20181105-1106
-! Last modified: 5 Nov 2018 11:06 CEST
+! Version: 20181218-2152
+! Last modified: 18 Dec 2018 21:52 CEST
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -19,22 +19,17 @@
 /cookieconsent.min.js$script
 eurocookie.galilcloud.wixapps.net/popup*$subdocument
 
+###CookieNotification
+###privacypolicy
 ##cloudflare-app[app*="cookiless"]
 ##cookies-hint
-##div.cookie-layer
-##div.cookie-panel
-##div.cookie_mess
-##div.cookieinfo
-##div.cookiePolicy
-##div.cookies-note
-##div.ev-cookie-banner
-##div.jb.cookie
-##div.mw-cookiewarning-container
-##div.widget_eu_cookie_law_widget
 ##div#bCookieSlide
+##div#cookie-banner-root
 ##div#cookie-bar
 ##div#cookie-hint
 ##div#cookie-law
+##div#cookie-notification-content
+##div#cookieAlert
 ##div#cookie_permission_banner
 ##div#cookiemsg
 ##div#eu-cookie-guideline
@@ -43,14 +38,24 @@ eurocookie.galilcloud.wixapps.net/popup*$subdocument
 ##div#hs-eu-cookie-confirmation
 ##div#js-gdpr-consent-banner
 ##div#privacy-consent
+##div.coockiebar
+##div.cookie-info-modal
+##div.cookie-layer
+##div.cookie-panel
+##div.cookiePolicy
+##div.cookie_mess
+##div.cookieinfo
+##div.cookies-note
+##div.ev-cookie-banner
+##div.jb.cookie
+##div.mw-cookiewarning-container
+##div.widget_eu_cookie_law_widget
 ##div[aria-label='cookieconsent']
 ##div[class*='app_gdpr']
 ##div[data-borlabs-cookie-wrap='popup']
-##div[id*='cookie-consent']
 ##div[id*='CookieConsent']
+##div[id*='cookie-consent']
 ##div[id*='cookiehint']
-###CookieNotification
-###privacypolicy
 
 
 ! ==================== Site specific filters ================================= !
@@ -58,6 +63,11 @@ eurocookie.galilcloud.wixapps.net/popup*$subdocument
 ||mercedes-benz.de/etc/designs/embxp-wholesale/components/cookielayer/*$script
 
 aliexpress.com##div#j-aliexpress-notice
+amazon.com##div.mo-wp:has(a[href*='/legal/cookies/'])
+autokostencheck.de##div#footerSlideContainer:has(div#cookiesettings)
+bing.com##div#b_notificationContainer:has(a[href*='privacy.microsoft.com'])
+check24.de##div.c24-cookie
+chip.de##div.as-oil:has(a[href*='Datenschutz-CHIP-Online'])
 curius.de##div.cookie
 dell.com##div.evidon-banner
 denic.de##div.teaser.notification.notification--notice.notification--acknowledge.notification--bottom
@@ -65,14 +75,25 @@ doodle.com##aside:has(> section[id*='cookiesWarning'])
 doodle.com##div#d-cookiesWarning
 dropbox.com##div#top-notification-bar-container > div#eu-cookie-bar
 eislingen.de##div#cCore_cookieNotice
-ihk24.de##div#top-cookieinfo-desktop
 forum.proxmox.com##div.bottomFixer:has(div.noticeCookiesContent)
+ihk24.de##div#top-cookieinfo-desktop
+it-budget.de##div.cin_cookie_notification
 leitz.com##section#cookiePrefIntro
 linkedin.com##div:has(> div.alert > a[href*="legal/cookie-policy"])
+mediamarkt.de##div.mms-cookielayer
 reddit.com##div:has(> form:has(a[href*='reddit.com/help/privacypolicy']))
+rewe.de##div.fragment[data-fragment='disclaimer-layer']
+rewe.de##div[data-cookie-consent]
+rooms.ryanair.com##rooms-cookies-policy
 speedtest.net##div#_evidon-barrier-wrapper
+telekom.de##div#top-level-notifications:has(div.message-bar[data-js-m-message-bar*='cookie'])
+unitymedia.de##div:has(> div > div > a[href*='unitymedia.de/datenschutz'])
 wetteronline.de##.cc_banner-wrapper
+
 
 ! ==================== Whitelist ============================================= !
 
+~alfahosting.de##.cookies
 ~doodle.com##.cookies
+~netuse.de##.cookies
+~xxxlutz.de##body.cookie-bar
