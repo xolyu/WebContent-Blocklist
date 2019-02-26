@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoying WebContent for Adblock Plus
-! Version: 20190226-1315
+! Version: 20190226-1539
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -11,7 +11,7 @@
 ! ==================== Global filters ======================================== !
 
 ##div#adblock-msg
-##div#chimpy_popup_content
+##div.chimpy_popup_content
 
 
 ! ==================== Site specific filters ================================= !
