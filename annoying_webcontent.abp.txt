@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoying WebContent for Adblock Plus
-! Version: 20180905-1915
-! Last modified: 5 Sep 2018 19:15 CEST
+! Version: 20190226-1315
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -12,6 +11,7 @@
 ! ==================== Global filters ======================================== !
 
 ##div#adblock-msg
+##div#chimpy_popup_content
 
 
 ! ==================== Site specific filters ================================= !
@@ -34,6 +34,8 @@ youtube.com##div#ticker-content > div.yt-consent.yt-consent-banner
 youtube.com##ytd-consent-bump-renderer
 youtube.com##div#alerts
 
+! Google Consent PopOver
+google.com,google.de##div#lb:has(div[role='dialog'] > div#cnsw > iframe)
 ! GMaps: Meldung rechts oben
 google.com,google.de##div[role='dialog'][aria-label*='Wähle die Privatsphäreeinstellungen']
 ! GMaps: Meldung links unten, überlagert Satellit-Button
