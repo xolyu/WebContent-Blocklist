@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoying WebContent for Adblock Plus
-! Version: 20190226-1539
+! Version: 20190319-1548
 ! Expires: 7 days (update frequency)
 ! 
 ! Please post any details regarding unblocked notices or problems
@@ -25,6 +25,8 @@ howtogeek.com##div.email-overlay
 sourceforge.net##div#newsletter-floating
 stackoverflow.com##div.old-hero.hero-container.js-dismissable-hero
 stechguide.com##iframe.HB-Slider
+welt.de##div.c-dialog__inactivity
+welt.de##div.c-dialog__shadow
 wikipedia.org##div#centralNotice > div#WMDE_Banner
 wikipedia.org##div#WMDE_Banner
 winfuture.de##div#om-h5imbmbnxowdl2ko
