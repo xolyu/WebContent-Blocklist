@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Title: Annoying WebContent for Adblock Plus
+! Version: 24042813
+! Expires: 7 days (update frequency)
+!
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker.
+!
+
+
+! ==================== Global filters ======================================== !
+
+
+
+
+! ==================== Site specific filters ================================= !
+
+askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##div#overlay-header:has-text(/Welcome back!/)
+deepl.com##aside[data-testid^="write-promo-banner"]
+deepl.com##aside[class^="ProBanner2021-module-"]
+deepl.com##aside[data-testid^="pro_ad_content"]
+deepl.com##aside[aria-labelledby="customer-quotes-heading"]
+deepl.com##aside[class^="CareerBanner-module-"]
+deepl.com##aside[aria-labelledby="career-banner-heading"]
+
