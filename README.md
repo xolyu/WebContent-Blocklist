@@ -1,9 +1,7 @@
 # WebContent-Blocklist
 
-## URLs of all blocklists
+## URLs of maintained blocklists
 
 ```
-https://raw.githubusercontent.com/xolyu/WebContent-Blocklist/master/cookie_notices.abp.txt
-https://raw.githubusercontent.com/xolyu/WebContent-Blocklist/master/cookie_notices.ubo.txt
 https://raw.githubusercontent.com/xolyu/WebContent-Blocklist/master/annoying_webcontent.abp.txt
 ```
