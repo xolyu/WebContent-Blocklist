@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoying WebContent for Adblock Plus
-! Version: 24042813
+! Version: 24042814
 ! Expires: 7 days (update frequency)
 !
 ! Please post any details regarding unblocked notices or problems
