@@ -16,7 +16,7 @@
 ! ==================== Site specific filters ================================= !
 
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##div#overlay-header:has-text(/Welcome back!/)
-deepl.com##aside[data-testid^="write-promo-banner"]
+deepl.com##div[data-testid^="write-promo-banner"]
 deepl.com##aside[class^="ProBanner2021-module-"]
 deepl.com##aside[data-testid^="pro_ad_content"]
 deepl.com##aside[aria-labelledby="customer-quotes-heading"]
