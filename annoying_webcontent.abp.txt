@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Xolyu - Annoying WebContent
-! Version: 24121410
+! Version: 24121411
 ! Expires: 7 days (update frequency)
 !
 ! Please post any details regarding unblocked notices or problems
@@ -26,6 +26,8 @@ deepl.com##aside[aria-labelledby="career-banner-heading"]
 deepl.com##aside[data-testid^="app_banner_content"]
 deepl.com##aside[data-testid^="app-ad-callout-callout"]
 deepl.com##aside[data-testid^="write-advertisement-banner"]
-deepl.com##div[data-testid^="desktop-app-modal"]
-deepl.com##div.fixed.inset-0[aria-hidden="true"]
-deepl.com#$#body{ pointer-events: auto; }
+
+! disabled: some problems with body pointer-events
+!deepl.com##div[data-testid^="desktop-app-modal"]
+!deepl.com##div.fixed.inset-0[aria-hidden="true"]
+!deepl.com#$#body{ pointer-events: auto; }
