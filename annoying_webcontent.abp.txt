@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Xolyu - Annoying WebContent
-! Version: 24121411
+! Version: 25071401
 ! Expires: 7 days (update frequency)
 !
 ! Please post any details regarding unblocked notices or problems
