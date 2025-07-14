@@ -16,6 +16,13 @@
 ! ==================== Site specific filters ================================= !
 
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##div#overlay-header:has-text(/Welcome back!/)
+deepl.com##div[class^="homeExperience-module--homeExperience--"]
+deepl.com##section[class^="homeExperience-module--logoCloud--"]
+deepl.com##section[class^="homeExperience-module--customerStories--"]
+deepl.com##section[class^="homeExperience-module--platform--"]
+deepl.com##section[class^="homeExperience-module--industries--"]
+deepl.com##section[class^="homeExperience-module--api--"]
+deepl.com##section[class^="homeExperience-module--cta--"]
 deepl.com##div[data-testid^="write-promo-banner"]
 deepl.com##aside[data-testid^="write-promo-banner"]
 deepl.com##aside[class^="ProBanner2021-module-"]
