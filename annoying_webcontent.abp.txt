@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Xolyu - Annoying WebContent
-! Version: 25071401
+! Version: 25112201
 ! Expires: 7 days (update frequency)
 !
 ! Please post any details regarding unblocked notices or problems
@@ -16,25 +16,16 @@
 ! ==================== Site specific filters ================================= !
 
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##div#overlay-header:has-text(/Welcome back!/)
-deepl.com##div[class^="homeExperience-module--homeExperience--"]
-deepl.com##section[class^="homeExperience-module--logoCloud--"]
-deepl.com##section[class^="homeExperience-module--customerStories--"]
-deepl.com##section[class^="homeExperience-module--platform--"]
-deepl.com##section[class^="homeExperience-module--industries--"]
-deepl.com##section[class^="homeExperience-module--api--"]
-deepl.com##section[class^="homeExperience-module--cta--"]
-deepl.com##div[data-testid^="write-promo-banner"]
-deepl.com##aside[data-testid^="write-promo-banner"]
-deepl.com##aside[class^="ProBanner2021-module-"]
-deepl.com##aside[data-testid^="pro_ad_content"]
-deepl.com##aside[aria-labelledby="customer-quotes-heading"]
-deepl.com##aside[class^="CareerBanner-module-"]
-deepl.com##aside[aria-labelledby="career-banner-heading"]
-deepl.com##aside[data-testid^="app_banner_content"]
-deepl.com##aside[data-testid^="app-ad-callout-callout"]
-deepl.com##aside[data-testid^="write-advertisement-banner"]
-
-! disabled: some problems with body pointer-events
-!deepl.com##div[data-testid^="desktop-app-modal"]
-!deepl.com##div.fixed.inset-0[aria-hidden="true"]
-!deepl.com#$#body{ pointer-events: auto; }
+deepl.com##div[class^="homeExperience_homeExperience_"]
+deepl.com##section[class*="homeExperience_logoCloud_"]
+deepl.com##section[class*="homeExperience_agentBanner_"]
+deepl.com##section[class*="homeExperience_customerStories_"]
+deepl.com##section[class*="homeExperience_platform_"]
+deepl.com##section[class*="homeExperience_aiLabsBanner_"]
+deepl.com##section[class*="homeExperience_appsIntegrations_"]
+deepl.com##section[class*="homeExperience_industries_"]
+deepl.com##section[class*="homeExperience_api_"]
+deepl.com##section[class*="homeExperience_cta_"]
+deepl.com##section[class*="homeExperience_eseotericText_"]
+! disable side panel with many pro features
+deepl.com##div[data-layout-id^="translatorSidePanel"]
