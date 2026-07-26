@@ -16,6 +16,7 @@
 ! ==================== Site specific filters ================================= !
 
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##div#overlay-header:has-text(/Welcome back!/)
+deepl.com##section[class*="homeExperience-module-scss-module_"]
 deepl.com##div[class^="homeExperience_homeExperience_"]
 deepl.com##section[class*="homeExperience_logoCloud_"]
 deepl.com##section[class*="homeExperience_agentBanner_"]
